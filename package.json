@@ -1,0 +1,19 @@
+{
+  "name": "next-js-exercises",
+  "version": "1.0.0",
+  "description": "NexeJS exercises",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@github.com-MaciejUberna:MaciejUberna/NextJS.git"
+  },
+  "keywords": [
+    "NextJS",
+    "html_rendering"
+  ],
+  "author": "",
+  "license": "ISC"
+}
