@@ -1,0 +1,6 @@
+in order to build the project run:
+
+npm run build
+
+You have to populate entire project not only .next folder.
+The host that supports node.js must be hoicen in order to run it.
